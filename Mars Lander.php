@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
@@ -40,4 +41,5 @@ while (TRUE)
     }
      echo("0 ".$power."\n");
 }
+
 ?>
